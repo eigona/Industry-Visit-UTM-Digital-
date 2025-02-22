@@ -41,3 +41,7 @@ Another discussion...
 [![This is the video](https://img.youtube.com/vi/HfIL6RQ-Dy0/0.jpg)](https://www.youtube.com/watch?v=HfIL6RQ-Dy0)
 
 **`Here is the video that my group make to sum up the visit`**
+<br />
+
+#
+You can click on the video header and it will guide you to youtube to watch our video there :D
